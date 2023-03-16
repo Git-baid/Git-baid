@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1>Hello, I'm Clint</h1>
+Experience coding in C++, Python, and C# with Unity3D game engine.
+I'm currently searching for a Summer 2023 Internship
+
+<h2>🎮 Major Development Personal Projects:</h2>
+
+- <b>Unity3D Game Development</b>
+  - [Multiplayer Virtual Reality LiDAR Simulation Game](https://github.com/CVScholtisek)
+  - First Person Shooter Project (WIP)
+- <b>Discord Bot Using Python</b>
+  - [baidbot](https://github.com/CVScholtisek/baidbotDiscord)
 
 <!--
-**CVScholtisek/CVScholtisek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
