@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub!</h1>
-Experience coding in C++, Python, and C# with Unity3D game engine.
+Experience coding in C++, Python, and C# in Unity3D.
 I'm currently searching for a Summer 2023 Internship.
 
 <h2>🎮 Major Development Personal Projects:</h2>
