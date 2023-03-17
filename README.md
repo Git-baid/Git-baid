@@ -1,6 +1,6 @@
-<h1>Hello, I'm Clint</h1>
+<h1>Welcome to my GitHub!</h1>
 Experience coding in C++, Python, and C# with Unity3D game engine.
-I'm currently searching for a Summer 2023 Internship
+I'm currently searching for a Summer 2023 Internship.
 
 <h2>🎮 Major Development Personal Projects:</h2>
 
