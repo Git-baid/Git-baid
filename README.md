@@ -9,7 +9,8 @@ I'm currently searching for a Summer 2023 Internship.
   - First Person Shooter Project (WIP)
 - <b>Discord Bot Using Python</b>
   - [baidbot](https://github.com/CVScholtisek/baidbotDiscord)
-
+- <b>Other Projects</b>
+  - [Smart Tic-Tac-Toe](https://github.com/CVScholtisek/CS201-Project)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
