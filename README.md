@@ -5,7 +5,7 @@ I'm currently searching for a Summer 2023 Internship.
 <h2>🎮 Major Development Personal Projects:</h2>
 
 - <b>Unity3D Game Development</b>
-  - [Multiplayer Virtual Reality LiDAR Simulation Game](https://github.com/CVScholtisek)
+  - [Multiplayer Virtual Reality LiDAR Simulation Game](https://github.com/CVScholtisek/VRChat-LiDAR)
   - First Person Shooter Project (WIP)
 - <b>Discord Bot Using Python</b>
   - [baidbot](https://github.com/CVScholtisek/baidbotDiscord)
