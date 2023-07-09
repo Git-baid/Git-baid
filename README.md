@@ -9,8 +9,9 @@ Experience coding in C++, Python, and C# in Unity3D.
 - <b>Discord Bot Using Python</b>
   - [baidbot](https://github.com/CVScholtisek/baidbotDiscord)
 - <b>Other Projects</b>
-  - [Smart Tic-Tac-Toe](https://github.com/CVScholtisek/CS201-Project)
   - [Microwave PC LCD](https://github.com/Git-baid/Microwave-PC-LCD/tree/main)
+  - [Smart Tic-Tac-Toe](https://github.com/CVScholtisek/CS201-Project)
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
