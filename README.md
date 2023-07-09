@@ -6,7 +6,7 @@ Experience coding in C++, Python, and C# in Unity3D.
 - <b>Unity3D Game Development</b>
   - [Multiplayer Virtual Reality LiDAR Simulation Game](https://github.com/CVScholtisek/VRChat-LiDAR)
   - First Person Shooter Project (WIP)
-- <b>Discord Bot Using Python</b>
+- <b>Python Discord Bot</b>
   - [baidbot](https://github.com/CVScholtisek/baidbotDiscord)
 - <b>Other Projects</b>
   - [Microwave PC LCD](https://github.com/Git-baid/Microwave-PC-LCD/tree/main)
