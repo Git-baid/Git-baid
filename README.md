@@ -7,7 +7,7 @@ Experience coding in C++, Python, and C# in Unity3D.
   - [Multiplayer Virtual Reality LiDAR Simulation Game](https://github.com/Git-baid/VRChat-LiDAR)
   
     <img src="https://github.com/CVScholtisek/VRChat-LiDAR/raw/main/deepdarkbutton.gif" width = 200>
-  
+  - [Suika Game WIP](https://github.com/Git-baid/SpaceSuikaGame)
   - First Person Shooter Project (WIP)
 - <b>Python Discord Bot</b>
   - [baidbot](https://github.com/Git-baid/baidbotDiscord)
