@@ -33,4 +33,5 @@ Experience coding in C++, Python, and C# in Unity3D.
     <img src="https://github.com/Git-baid/PortalGun/blob/main/PortalGunPhotos/20231025_005635.jpg" width = 200>
 
 - <b>Other Projects</b>
+  - [Machine Learning Minecraft Ore Detection](https://github.com/Git-baid/MinecraftOreDetection)
   - [Smart Tic-Tac-Toe](https://github.com/Git-baid/CS201-Project)
