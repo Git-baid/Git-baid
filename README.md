@@ -34,4 +34,7 @@ Experience coding in C++, Python, and C# in Unity3D.
 
 - <b>Other Projects</b>
   - [Machine Learning Minecraft Ore Detection](https://github.com/Git-baid/MinecraftOreDetection)
+
+    <img src="https://github.com/Git-baid/MinecraftOreDetection/blob/main/Minecraft%20Ore%20Detection%20(1).gif" width = 200>
+    
   - [Smart Tic-Tac-Toe](https://github.com/Git-baid/CS201-Project)
