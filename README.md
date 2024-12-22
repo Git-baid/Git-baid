@@ -13,7 +13,7 @@ Experience coding in C++, Python, and C# in Unity3D.
     
   - [First Person Shooter Project (WIP)](https://github.com/Git-baid/First-Person-Shooter)
  
-    <img src="https://cdn.discordapp.com/attachments/434752033552203793/1170438909042368522/image.png?ex=66119d2d&is=65ff282d&hm=1d2473fa1ac8e9a491cd8ba483baf6d5002f038e0cbd01124e915008d810dd4c&" width = 200>
+    <img src="https://private-user-images.githubusercontent.com/77409714/317939051-7a70f9ff-5ed2-47d1-a41e-bf1209dcb9fb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4MzE4NzUsIm5iZiI6MTczNDgzMTU3NSwicGF0aCI6Ii83NzQwOTcxNC8zMTc5MzkwNTEtN2E3MGY5ZmYtNWVkMi00N2QxLWE0MWUtYmYxMjA5ZGNiOWZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIyVDAxMzkzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2NTVjNjQ2YjE5MmEwMDkzMGI3MDM0Nzk3NjYyNjRlMGYzZGQyMzRlYjVlMDAyMzg3YzdiZjY1ODRiZTgzZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vcLwdudp_jDigXGu4AHn4vnt7ST4OW2CojG971wzNg8" width = 200>
     
 - <b>Python Discord Bot</b>
   - [baidbot](https://github.com/Git-baid/baidbotDiscord)
