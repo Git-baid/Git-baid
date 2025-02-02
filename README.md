@@ -9,7 +9,7 @@ Experience coding in C++, Python, and C# in Unity3D. Computer Science Major at U
     <img src="https://github.com/CVScholtisek/VRChat-LiDAR/raw/main/deepdarkbutton.gif" width = 200>
   - [Wordle Word Guessing Puzzle Game](https://github.com/CodeBusters-Wordle-Crackdown/WordleCrackdown)
     
-    <img src="https://media.discordapp.net/attachments/434752033552203793/1320207316393394228/image.png?ex=6768c260&is=676770e0&hm=711ca14e88b33cc0efa318bf9c7892683dc5ad810722f4796f94765f1ee867e3&=&format=webp&quality=lossless&width=1054&height=657" width = 200>
+    <img src="https://cdn.discordapp.com/attachments/434752033552203793/1335515190845902929/image.png?ex=67a072f2&is=679f2172&hm=558572cfde765b0f441e8979e8b514e2c7db61d8a12475097edac2a35b8e6d23&" width = 200>
   - [Suika Game WIP](https://github.com/Git-baid/SpaceSuikaGame)
     
   - [First Person Shooter Project (WIP)](https://github.com/Git-baid/First-Person-Shooter)
