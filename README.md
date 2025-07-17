@@ -28,7 +28,7 @@ Experience coding in C++, Python, and C# in Unity3D. Computer Science Major at U
 - <b>Micro Controller Projects</b>
   - [Microwave PC LCD](https://github.com/Git-baid/Microwave-PC-LCD/tree/main)
  
-    <img src="https://github.com/Git-baid/Microwave-PC-LCD/blob/main/20230725_234915.jpg" width = 200>
+    <img src="https://github.com/Git-baid/Microwave-PC-LCD/blob/main/Screenshot%202025-07-17%20143044.png" width = 200>
   
   - [Aperture Science Portal Gun](https://github.com/Git-baid/PortalGun/tree/main)
  
