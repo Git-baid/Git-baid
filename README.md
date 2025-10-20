@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub!</h1>
-Experience coding in C++, Python, and C# in Unity3D. Computer Science graduate at University of Alaska Anchoragae, minors in Computer Systems Engineering and Mathematics
+Experience coding in C++, Python, and C# in Unity3D. Computer Science graduate at University of Alaska Anchorage, minors in Computer Systems Engineering and Mathematics
 
 <h2>🎮 Personal Development Projects:</h2>
 
